@@ -5,6 +5,6 @@ Steps to Follow:
    1. Download the dataset for the 162 Tamil Character Labels from this link here - https://drive.google.com/file/d/1cFxDzl3VTXRLwt7vJckljgz1orixwZci/view?usp=sharing          and store them in your required directory.
   2. Install Tensorflow and Keras (if not already available) in your Python interpretor application. The attached code was run using Jupyter Notebook, powered by the           Anaconda distributor.
   3. Download the repository and run the cells in your studio, replacing the '...' with your directory names.
-  4. The Structure of the currently built CNN model is attached in the files. You can explore more on the Deep Learning Technique and try to make it your own! using this       reference - https://www.tensorflow.org/tutorials/images/cnn
-  
+  4. The Structure of the currently built CNN model is attached in the files. You can explore more on the Deep Learning Technique and try to make it your own! using this       reference - https://www.tensorflow.org/tutorials/images/cnn. (Fair WARNING: The above model takes over 12 hours to be fitted to the training set, so be sure to run       them with time on your hands!)
+  5. After the completion of fitting the training set, you can test the model by feeding it different single character images and visualizing the class label predicted          using the images classified in the 'Labels' folder.
   
